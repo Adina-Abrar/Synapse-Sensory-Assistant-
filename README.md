@@ -53,6 +53,37 @@ This project explores how AI can translate vision into understanding — not ima
 
 ---
 
+## How It Works
+
+Camera + Audio Input → Gemini Multimodal Reasoning → Spatial Audio Feedback
+
+Synapse analyzes surroundings and provides concise, spatially-aware audio instructions.
+
+---
+
+##  Tech Stack
+- React.js  
+- Node.js & Express  
+- Google AI Studio (Gemini API)  
+- Computer Vision  
+- Speech Synthesis  
+- Vercel Deployment  
+
+---
+
+##  Challenges
+- Avoiding audio overload  
+- Translating vision into spatial meaning  
+- Designing for users who cannot see the interface  
+- Balancing hackathon scope with usability  
+
+---
+
+##  Impact
+Synapse demonstrates how AI can restore independence by adapting to human needs rather than forcing users to adapt to technology.
+
+---
+
 
 ## Run Locally
 
