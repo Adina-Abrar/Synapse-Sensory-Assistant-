@@ -1,0 +1,8 @@
+{
+  "name": "Synapse Sensory Assistant",
+  "description": "A real-time sensory assistant for blind and low-vision users, providing safety-first guidance through camera and microphone analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
