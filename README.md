@@ -1,12 +1,58 @@
+
+# Synapse Sensory Assistant
+> Tap anywhere → Synapse becomes your eyes in real time, or connects you to a human instantly if AI isn’t confident.
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img  alt="GHBanner" src="https://drive.google.com/uc?export=view&id=1R9NR5X5wk0JhubLhCN-RoVF36gexbFys" />
 </div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adina-abrar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://www.kaggle.com/adinaabrar" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="45" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://github.com/Adina-Abrar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="margin: 0 10px;"/>
+  </a>
+  <a href="mailto:adinaabrar1111@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45" style="margin: 0 10px;"/>
+  </a>
+</p>
 
-# Run and deploy your AI Studio app
+##  Live Demo
+ Web App: https://synapse-sensory-assistant.vercel.app  
+ YouTube Demo: https://youtu.be/jNYjTjF_akw 
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1B5rUX_GyEq5VnVHTiuC1uI2BiGjP2XIM
+##  Overview
+**Synapse** is an AI-powered multimodal assistant designed to help visually impaired users understand and navigate their surroundings through real-time audio guidance.
+
+Instead of simply detecting objects, Synapse translates vision into **spatial understanding**:
+
+> “Obstacle slightly to your right, two steps ahead.”
+
+---
+
+##  Inspiration
+Synapse was born from a simple realization:  
+Most “smart” systems assume the user can see the screen.
+
+This project explores how AI can translate vision into understanding — not images — enabling independence through audio-first interaction.
+
+---
+
+##  Key Features
+-  Real-time environment understanding  
+-  Directional audio feedback (left / right / near / far)  
+-  Context-aware narration (no information overload)  
+-  Tap-based activation (no visual navigation needed)  
+-  Conversational guidance  
+-  Human fallback when AI confidence is low  
+
+---
+
 
 ## Run Locally
 
